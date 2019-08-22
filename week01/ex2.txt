@@ -1,22 +1,15 @@
-    1  whoami
-    2  hostnam
-    3  hostname
-    4  man <item>
-    5  man
-    6  terminal
-    7  man whoami
-    8  man man
-    9  man --help
-   10  mkdir ~/week1
-   11  cd ~/week1
-   12  ls /usr/bin
-   13  ls -r /usr/bin
-   14  ls | sort -r > ex1.txt
-   15  ex1.txt
-   16  cd ex1.txt
-   17  ex1
-   18  ls | sort -r
-   19  ls | sort -r /usr/bin > ex1.txt
-   20  ls | sort -r | /usr/bin
-   21  ls /usr/bin | sort -r > ex1.txt
-   22  history > ex2.txt
+    1  history
+    2  ls | sort -r grep gcc /usr/bin > ex1.txt
+    3  ls | sort -r | grep gcc /usr/bin > ex1.txt
+    4  ~/week1
+    5  cd ~/week1
+    6  ls | sort -r | grep gcc /usr/bin > ex1.txt
+    7  ls sort -r grep gcc /usr/bin > ex1.txt
+    8  ls grep gcc /usr/bin sort -r > ex1.txt
+    9  ls | grep gcc /usr/bin sort -r > ex1.txt
+   10  sad
+   11  ls | grep gcc /usr/bin | sort -r > ex1.txt
+   12  find /usr/bin -name "*gcc*" | sort -r > ex1.txt 
+   13  ls /usr/bin | sort -r > filenames.txt
+   14  grep gcc filenames.txt > ex1.txt 
+   15  history > ex2.txt
