@@ -10,5 +10,5 @@ int main(){
 	return 0;
 }
 //program will output hello from parent and child 20 times,
-//because for each program run hello from parent and child
-//will be output 2 times because of two processes for each program run
+//because for each program execution "hello" from parent and child
+//will be displayed 2 times, because for each program execution two processes run
