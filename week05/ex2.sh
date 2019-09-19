@@ -1,5 +1,6 @@
 #!/bin/bash
 cnt=0
+touch ex2.txt
 while :
 do
 	if [ $cnt -eq 1000 ];
