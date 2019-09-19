@@ -1,12 +1,4 @@
 #!/bin/bash
-#sum=0
-#sum=$((sum+1))
-#echo $sum
-#for i in $string;
-#do
-#	echo "$i\n"
-#done
-#echo $sum
 cnt=0
 while :
 do
