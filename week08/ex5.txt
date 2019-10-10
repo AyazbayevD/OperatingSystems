@@ -1,0 +1,3 @@
+Physical address is the address that has indexes which determine real memory places.
+
+Virtual address is the address by which virtual memory can be mapped to real memory.
