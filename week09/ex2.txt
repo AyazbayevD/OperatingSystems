@@ -1,0 +1,9 @@
+To increase hit/miss ratio, we should increase number of page frames or make page reference numbers less different from each other.
+Example:
+amount of page frames : 1000
+page reference numbers: 1, 1, 1, 1, 1, ... 1
+
+To decrease hit/miss ratio, we should decrease number of page frames or make page reference numbers as much different from each other as we can.
+Example:
+amount of page frames: 1
+page reference numbers: 1, 2, 3, 4, ... 100, 101, ...
